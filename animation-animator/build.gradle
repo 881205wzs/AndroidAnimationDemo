@@ -31,4 +31,4 @@ dependencies {
     implementation 'com.davis.animation.evaluator:animation-evaluator:2.1.0'
 }
 
-//apply from: 'j-build.gradle'
+apply from: 'j-build.gradle'
